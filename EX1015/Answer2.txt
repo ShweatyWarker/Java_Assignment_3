@@ -1,0 +1,14 @@
+salaried employee: Alice Walker
+social security number: 111-11-1111
+weekly salary: $1,000.00
+earned: $1,000.00
+
+piece worker: Bob Miller
+social security number: 222-22-2222
+wage per piece: $15.50; pieces produced: 80
+earned: $1,240.00
+
+piece worker: Carol Nguyen
+social security number: 333-33-3333
+wage per piece: $12.75; pieces produced: 100
+earned: $1,275.00
