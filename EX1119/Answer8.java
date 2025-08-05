@@ -11,6 +11,7 @@ public class Answer8 {
     public static void main(String[] args) {
         try {
             SomeClass obj = new SomeClass();
+            System.out.println("Created object: " + obj);
         } catch (Exception e) {
             System.out.println("Caught exception: " + e.getMessage());
         }
